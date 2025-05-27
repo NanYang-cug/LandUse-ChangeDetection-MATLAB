@@ -19,6 +19,7 @@
 本项目使用的数据集示例为 UCMerced Land Use 数据集中的农业类遥感影像，数据格式为 GeoTIFF，路径示例：
 
 D:/UCMerced_LandUse/Images/agricultural/agricultural00.tif
+
 D:/UCMerced_LandUse/Images/agricultural/agricultural02.tif
 
 

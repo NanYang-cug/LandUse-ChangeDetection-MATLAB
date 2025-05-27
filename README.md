@@ -1,19 +1,26 @@
-# LandUse-ChangeDetection-MATLAB
-基于 MATLAB 的遥感影像土地利用分类与变化检测系统
-# LandUse-ChangeDetection-MATLAB
+# Land Use Change Detection using Remote Sensing and CNN (MATLAB)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/YourUserName/LandUse-ChangeDetection-MATLAB?style=social)](https://github.com/YourUserName/LandUse-ChangeDetection-MATLAB/stargazers)
+A complete MATLAB-based framework for detecting land-use changes using multi-temporal satellite images and a shallow convolutional neural network.
 
-## 📖 项目简介
-基于 MATLAB 的土地利用分类与变化检测系统，支持：
-- 读取并预处理多光谱遥感影像  
-- 基于 SVM/KNN 的监督分类  
-- 后分类比较法的变化检测  
-- 分类精度评估与面积统计  
+## 🌍 Features
+- Remote sensing image loading and preprocessing
+- Shallow CNN pixel-wise classification
+- Post-classification change detection
+- Area statistics and visualization
+- (Optional) Accuracy assessment using confusion matrix and kappa
 
-## 🚀 快速开始
+## 📁 Folder Structure
+...
+## 🔧 Requirements
+- MATLAB R2021a+
+- Deep Learning Toolbox
+- Mapping Toolbox (for GeoTIFF support)
 
-1. 克隆仓库  
-   ```bash
-   git clone https://github.com/YourUserName/LandUse-ChangeDetection-MATLAB.git
+## 🚀 Getting Started
+...
+
+## 📊 Example Results
+Include demo screenshots or results map here.
+
+## 📜 License
+MIT
